@@ -46,15 +46,4 @@ execute the following script to compare the execution time for each generated co
 ```
 execution_time_statistic_async.sh
 ```
-
-## Pre-requirement:
-
-# Usage Instructions
-
-[Provide step-by-step instructions for using the replication package]
-
-## Citation
-
-If you use this replication package in your research, please cite:
-
-
+ 
